@@ -261,7 +261,7 @@ body {
     z-index: 2;
     filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.2));
 }
-/*
+
 .semicirculo-amarillo {
     position: absolute;
     width: 380px;
@@ -274,8 +274,8 @@ body {
     clip-path: polygon(0% 0%, 50% 0%, 50% 100%, 0% 100%);
     z-index: 1;
 }
-*/
-/* Contenido a la derecha */
+
+
 .contenido-acerca {
     flex: 1;
     max-width: 550px;
@@ -734,4 +734,5 @@ body {
 
 .enlaces-legales a:hover {
     color: #5c6bc0;
+
 }
